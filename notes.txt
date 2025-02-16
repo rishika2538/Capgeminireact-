@@ -1,5 +1,0 @@
----- MS FULL STACK----
-
-HTML--Hypertext markup language
-CSS--
-JAVASCRIPT--
